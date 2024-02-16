@@ -12,3 +12,4 @@ D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\obj\Debug\net6.0\refint\Cal
 D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\obj\Debug\net6.0\CalculatorApp.pdb
 D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\obj\Debug\net6.0\CalculatorApp.genruntimeconfig.cache
 D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\obj\Debug\net6.0\ref\CalculatorApp.dll
+D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\obj\Debug\net6.0\CalculatorApp.sourcelink.json
