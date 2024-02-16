@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace CalculatorApp
 {
     public class Calculate
@@ -32,7 +33,7 @@ namespace CalculatorApp
         public void Avg(double n1, double n2)
         {
             Console.WriteLine("Average of Numbers");
-            Console.WriteLine($"{n1} * {n2} = {(n1 +n2)/2}");
+            Console.WriteLine($" Avg {n1} & {n2} = {(n1 +n2)/2}");
         }
     }
 }
