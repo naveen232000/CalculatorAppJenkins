@@ -13,6 +13,8 @@ del divNum = new del(cal.Div);
 divNum(num1, num2);
 del multiNum = new del(cal.Multi);
 multiNum(num1, num2);
+del AvgNum = new del(cal.Avg);
+AvgNum(num1, num2);
 
 
 
