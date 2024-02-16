@@ -8,6 +8,7 @@ namespace CalculatorApp
 {
     public class Calculate
     {
+        public delegate void del(double n1, double n2);
         public void Add(double n1,double n2)
         {
             Console.WriteLine($"{n1} + {n2} = {(n1 + n2)}" );
