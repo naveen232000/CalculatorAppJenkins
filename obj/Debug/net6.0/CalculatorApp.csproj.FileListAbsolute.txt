@@ -1,0 +1,14 @@
+D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\bin\Debug\net6.0\CalculatorApp.exe
+D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\bin\Debug\net6.0\CalculatorApp.deps.json
+D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\bin\Debug\net6.0\CalculatorApp.runtimeconfig.json
+D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\bin\Debug\net6.0\CalculatorApp.dll
+D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\bin\Debug\net6.0\CalculatorApp.pdb
+D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\obj\Debug\net6.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\obj\Debug\net6.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\obj\Debug\net6.0\CalculatorApp.AssemblyInfo.cs
+D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\obj\Debug\net6.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\obj\Debug\net6.0\CalculatorApp.dll
+D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\obj\Debug\net6.0\refint\CalculatorApp.dll
+D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\obj\Debug\net6.0\CalculatorApp.pdb
+D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\obj\Debug\net6.0\CalculatorApp.genruntimeconfig.cache
+D:\Mphasis\Phase 3\16fib\CalculatorApp\CalculatorApp\obj\Debug\net6.0\ref\CalculatorApp.dll
